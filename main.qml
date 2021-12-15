@@ -1,0 +1,3 @@
+Rectangle {
+  color: "red"
+}
